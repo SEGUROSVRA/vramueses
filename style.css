@@ -69,7 +69,8 @@ body {
 
 .socials li {
     display: inline; /* Mostrar en línea */
-    margin-right: 12px; /* Espacio entre los elementos */
+    margin-right: 14px; /* Espacio entre los elementos */
+    
 }
 
 .socials {
