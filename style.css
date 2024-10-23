@@ -35,7 +35,7 @@ body {
 }
 
 .name {
-    font-size: 32px; /* Tamaño del nombre más grande */
+    font-size: 30px; /* Tamaño del nombre más grande */
     margin: 0; /* Sin márgenes */
     text-align: left;
 }   
@@ -100,13 +100,6 @@ body {
 
 .button:hover {
     background-color: rgb(9, 9, 10); /* Color más oscuro al pasar el ratón */
-}
-
-
-h1 {
-    font-size: large;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /*Cambio de fuente a todos los titulos h1*/
-    text-align: left; /*Para agregar el texto a la Izquierda */
 }
 
 p {
