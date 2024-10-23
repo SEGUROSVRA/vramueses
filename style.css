@@ -94,7 +94,7 @@ body {
     color: white; /* Color del texto del botón */
     text-align: center; /* Centrar el texto del botón */
     text-decoration: none; /* Sin subrayado */
-    border-radius: 15px; /* Bordes redondeados */
+    border-radius: 5px; /* Bordes redondeados */
     transition: background-color 0.3s; /* Transición suave para el color de fondo */
 }
 
