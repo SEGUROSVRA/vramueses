@@ -37,7 +37,7 @@ body {
 .name {
     font-size: 32px; /* Tamaño del nombre más grande */
     margin: 0; /* Sin márgenes */
-    text-align: center;
+    text-align: left;
 }   
 
 .position {
